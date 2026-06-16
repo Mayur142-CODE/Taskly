@@ -1,0 +1,5 @@
+/vendor/
+/downloads/
+/generated_websites/
+/storage/
+.env
